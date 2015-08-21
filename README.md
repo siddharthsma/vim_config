@@ -11,3 +11,7 @@ You need to have Vim installed on your machine.
 3. Run ./install.sh
 
 Enjoy !!
+
+## Additional Stuff you may want to do
+
+If you are using a Mac, I would highly recommend that you install iTerm2. I would also suggest you install cTags.
